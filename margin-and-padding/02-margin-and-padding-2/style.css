@@ -1,5 +1,5 @@
 body {
-  background: rgb(205, 124, 124);
+  background: #eee;
   font-family: sans-serif;
 }
 
@@ -33,6 +33,6 @@ button {
   background: white;
   border: 1px solid #eee;
   padding: 8px 24px;
-  margin: auto;
+  margin: 0 auto;
   display: block;
 }
