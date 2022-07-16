@@ -20,6 +20,7 @@ ul {
   display: flex;
   gap: 10px;
 }
+
 a {
   font-size: 22px;
   background: white;
